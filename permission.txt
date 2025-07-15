@@ -1,2 +1,2 @@
 #IP Address | Client Name | Expiry Date (YYYY-MM-DD)
-128.199.104.166|Maj Space|2027-12-31
+152.42.225.203|Maj Space|2027-12-31
