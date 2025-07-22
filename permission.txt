@@ -1,3 +1,3 @@
 #IP Address | Client Name | Expiry Date (YYYY-MM-DD)
 152.42.225.203|Maj Space|2027-12-31
-54.255.101.78|Aws|2027-12-12
+54.169.210.81|Aws|2027-12-12
